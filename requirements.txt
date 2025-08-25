@@ -1,7 +1,8 @@
 streamlit
-openai-whisper
+faster-whisper
 google-generativeai
 textblob
-torch
-imageio-ffmpeg
-faster-whisper
+requests
+pydub
+numpy
+ffmpeg-python
