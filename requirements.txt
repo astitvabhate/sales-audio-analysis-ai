@@ -1,0 +1,7 @@
+streamlit
+openai-whisper
+google-generativeai
+textblob
+torch
+imageio-ffmpeg
+faster-whisper
