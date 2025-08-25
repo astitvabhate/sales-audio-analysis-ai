@@ -7,7 +7,6 @@ import streamlit as st
 import google.generativeai as genai
 from textblob import TextBlob
 import requests
-import whisper
 from faster_whisper import WhisperModel
 
 
